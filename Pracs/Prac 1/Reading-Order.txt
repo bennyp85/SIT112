@@ -1,0 +1,5 @@
+The reading order of materials for this week is as follows,
+- 1-instructions.pdf
+- 2-prac1s1.pdf
+- 3-Jupyter-Notebook.pdf
+- 4-prac1s2.pdf

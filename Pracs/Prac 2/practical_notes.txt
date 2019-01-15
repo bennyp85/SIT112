@@ -1,0 +1,17 @@
+
+You will be required to download the practicals (.ipynb), load them in Jupyter Notebook local host and do the exercises by writing your code in the cells provided for you. So keep in mind the following steps:
+
+- If you have not done so, please install the Anaconda distribution of Python 3. This will include Python 3 + Jupyter Notebook.
+
+- Download the .ipynb files to a folder and start a terminal from that folder. 
+	* For Windows, go to your folder, click on the address bar, type cmd and then Enter. 
+	* For Mac OS, check the box "New Terminal at Folder", and then right-click on your folder and select "New terminal at folder".
+- Start Jupyter Notebook from your terminal and open the prepared ipynb file.
+
+
+- Variable names: must start with a leter or and underscore, such as: _my_var or my_var1. In the first practical with list, you might get confused between 1 (one) and l (the letter) as they are appearantly similar but a variable cannot start with 1 (one) (Sorry, it's my fault not to state clearly :) ).
+
+- Strings vs. Variables: a string is enclosed by either double or single quotes while a variable is not.
+
+- The first element of a tuple T is T[0] (with the square brackets), not T(0) even though a tuple is declared with parentheses. The values in a tuple are immutable, that means you cannot assign like this: T = (2, 3, 4), T[0] = 1
+

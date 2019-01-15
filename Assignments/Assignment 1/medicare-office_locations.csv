@@ -1,0 +1,240 @@
+No.,OFFICE TYPE,SITE NAME,ADDRESS,SUBURB,STATE,POSTCODE,LATITUDE,LONGITUDE,Open,Close,Closed for lunch
+1,Medicare,Armadale (WA),40-42 William Street,Armadale,WA,6112,-32.15567,116.01372,8:30:00,16:30:00,No
+2,Medicare,Armidale (NSW),246-248 Beardy Street,Armidale,NSW,2350,-30.51246,151.66191,8:00:00,16:30:00,No
+3,Medicare,Newport,433-439 Melbourne Road,Newport,VIC,3015,-37.84136,144.88265,9:00:00,15:30:00,No
+4,Medicare,Townsville Jobseekers,307 Ross River Road,Aitkenvale,QLD,4814,-19.29713,146.76441,8:30:00,16:00:00,Yes - Irregular Hours
+5,Medicare,Albany,15 Peels Place,Albany,WA,6330,-35.02591,117.88466,9:30:00,16:00:00,No
+6,Medicare,Atherton,3 Cook Street,Atherton,QLD,4883,-17.26322,145.47927,9:00:00,15:30:00,No
+7,Medicare,Alice Springs,5 Railway Terrace,Alice Springs,NT,870,-23.6959,133.88036,8:00:00,16:30:00,No
+8,Medicare,Ayr,100 MacMillan Street,Ayr,QLD,4807,-19.57682,147.4066,9:30:00,16:00:00,12:30:00 to 13:30:00
+9,Medicare,Ararat,45-47 King Street,Ararat,VIC,3377,-37.28326,142.93661,8:30:00,16:00:00,No
+10,Medicare,Airport West,"Shop 79, Westfield Shoppingtown, 29-35 Louis Street",Airport West,VIC,3042,-37.71393,144.88732,9:00:00,15:30:00,No
+11,Medicare,Albury,430 Wilson Street,Albury,NSW,2640,-36.07727,146.9237,8:00:00,16:30:00,No
+12,Medicare,Ballina,117-121 Tamar Street,Ballina,NSW,2478,-28.86713,153.55671,8:30:00,16:00:00,No
+13,Medicare,Oakleigh,88 Atherton Road,Oakleigh,VIC,3166,-37.8996,145.09429,9:30:00,16:00:00,No
+14,Medicare,Burnie,23 Marine Terrace,Burnie,TAS,7320,-41.05438,145.90715,9:00:00,15:30:00,No
+15,Medicare,Bowral,38 Wingecarribee Street,Bowral,NSW,2576,-34.47863,150.41925,8:00:00,16:30:00,No
+16,Medicare,Charlestown,331 Charlestown Road (Level 1),Charlestown,NSW,2290,-32.96075,151.69566,0:00,Mon to Fri - Irregular Hours,No
+17,Medicare,Broome,14 Napier Terrace,Broome,WA,6725,-17.95464,122.24006,8:00:00,16:00:00,No
+18,Medicare,Bega,49-61 Church Street,Bega,NSW,2550,-36.6737,149.8417,9:30:00,16:00:00,No
+19,Medicare,Batemans Bay,3 Flora Crescent,Batemans Bay,NSW,2536,-35.70976,150.17865,9:00:00,15:30:00,No
+20,Medicare,Burwood,56 Railway Parade,Burwood,NSW,2134,-33.87112,151.10097,8:30:00,16:00:00,No
+21,Medicare,Bairnsdale,60-62 MacLeod Street,Bairnsdale,VIC,3875,-37.82674,147.63355,9:30:00,16:00:00,No
+22,Medicare,Bundaberg,26 Woongarra Street,Bundaberg,QLD,4670,-24.86614,152.35411,8:00:00,16:30:00,No
+23,Medicare,Beenleigh,Stockyard Lane,Beenleigh,QLD,4207,-27.71957,153.20658,9:00:00,17:00:00,No
+24,Medicare,Berri,5 Riverview Drive,Berri,SA,5343,-34.28789,140.60191,8:00:00,17:00:00,No
+25,Medicare,Bondi Junction,19-23 Hollywood Avenue,Bondi Junction,NSW,2022,-33.89365,151.25128,9:00:00,15:30:00,No
+26,Medicare,Broken Hill,180 Beryl Street,Broken Hill,NSW,2880,-31.95784,141.46209,9:30:00,16:00:00,No
+27,Medicare,Blacktown,8 First Avenue (ground floor),Blacktown,NSW,2148,-33.76838,150.9111,9:30:00,17:30:00,No
+28,Medicare,Broadmeadows,16-22 Pearcedale Parade,Broadmeadows,VIC,3047,-37.68202,144.91612,8:30:00,16:00:00,No
+29,Medicare,Belconnen,"Level 1, Northpoint Plaza, 8 Chandler Street",Belconnen,ACT,2617,-35.23784,149.06879,9:30:00,16:00:00,No
+30,Medicare,Bendigo,231-245 Lyttleton Terrace,Bendigo,VIC,3550,-36.7595,144.28262,8:45:00,17:30:00,No
+31,Medicare,Bowen,53 George Street,Bowen,QLD,4805,-20.01501,148.24674,8:00:00,17:00:00,No
+32,Medicare,Ballarat,4-12 Albert Street,Ballarat,VIC,3350,-37.56333,143.85849,9:15:00,17:00:00,No
+33,Medicare,Bathurst,166-168 Russell Street,Bathurst,NSW,2795,-33.41674,149.57715,8:00:00,16:30:00,No
+34,Medicare,Bunbury,54-56 Wittenoom Street,Bunbury,WA,6230,-33.32394,115.63525,8:30:00,16:00:00,No
+35,Medicare,Mitchelton,55 Osborne Road,Mitchelton,QLD,4053,-27.41219,152.97728,9:30:00,16:00:00,No
+36,Medicare,Bankstown,2-14 Meredith Street,Bankstown,NSW,2200,-33.9172,151.03111,0:00,Mon to Fri - Irregular Hours,No
+37,Medicare,Box Hill,3-13 Harrow Street,Box Hill,VIC,3128,-37.82124,145.12382,9:30:00,17:30:00,No
+38,Medicare,Coffs Harbour,21-25 Duke Street,Coffs Harbour,NSW,2450,-30.2967,153.1187,8:45:00,17:30:00,No
+39,Medicare,Casino,46 Hickey Street,Casino,NSW,2470,-28.86344,153.05052,8:45:00,15:30:00,No
+40,Medicare,Corio,Corio Village Shopping Centre Purnell Road,Corio,VIC,3214,-38.07526,144.35551,8:30:00,16:30:00,No
+41,Medicare,Cowra,93-95 Brisbane Street,Cowra,NSW,2794,-33.83584,148.69135,9:30:00,16:00:00,No
+42,Medicare,Torrensville,132-136 Henley Beach Road,Torrensville,SA,5031,-34.924,138.5652,8:30:00,16:30:00,No
+43,Medicare,Camden,16-22 Murray Street,Camden,NSW,2570,-34.05617,150.69418,8:30:00,16:30:00,No
+44,Medicare,Campbelltown,8-10 Browne Street,Campbelltown,NSW,2560,-34.06518,150.81721,9:00:00,15:30:00,No
+45,Medicare,Braddon,13 Lonsdale Street,Braddon,ACT,2612,-35.27411,149.13225,8:00:00,16:30:00,No
+46,Medicare,Caloundra,54 Canberra Terrace,Caloundra,QLD,4551,-26.80413,153.13615,8:30:00,16:00:00,No
+47,Medicare,Cranbourne,7-9 Codrington Street,Cranbourne,VIC,3977,-38.11246,145.28454,9:30:00,16:00:00,No
+48,Medicare,Moreland,172-186 Moreland Road (ground floor),Brunswick,VIC,3056,-37.75575,144.96322,8:00:00,16:30:00,No
+49,Medicare,Lilydale,Corner Anderson and Chapel Street,Lilydale,VIC,3140,-37.756,145.355,8:45:00,15:30:00,No
+50,Medicare,Cessnock,186-194 Vincent Street,Cessnock,NSW,2325,-32.83867,151.35553,8:00:00,17:00:00,No
+51,Medicare,Noarlunga,9 Alexander Kelly Drive,Noarlunga,SA,5168,-35.13848,138.4988,8:00:00,16:30:00,No
+52,Medicare,Cooma,65 Massie Street,Cooma,NSW,2630,-36.23366,149.12518,9:15:00,17:00:00,No
+53,Medicare,Cannington,1290-1298 Albany Highway,Cannington,WA,6107,-32.01518,115.92928,8:30:00,16:00:00,No
+54,Medicare,Colac,108 Bromfield Street,Colac,VIC,3250,-38.34112,143.58917,8:45:00,17:30:00,No
+55,Medicare,Capalaba,42 Redland Bay Road,Capalaba,QLD,4157,-27.52385,153.19258,8:00:00,16:30:00,No
+56,Medicare,Chermside,18 Banfield Street,Chermside,QLD,4032,-27.38179,153.03104,8:30:00,16:00:00,No
+57,Medicare,Seniors & Carers Cairns,104 Grafton Street,Cairns,QLD,4870,-16.92229,145.77442,8:00:00,16:30:00,No
+58,Medicare,Casuarina,50 Bradshaw Terrace,Casuarina,NT,810,-12.37187,130.88129,9:00:00,15:30:00,No
+59,Medicare,Cleveland,159 Bloomfield Street,Cleveland,QLD,4163,-27.52917,153.26674,9:30:00,16:00:00,No
+60,Medicare,Chatswood,56-64 Archer Street,Chatswood,NSW,2067,-33.79696,151.18575,8:00:00,17:00:00,No
+61,Medicare,Deception Bay,"Deception Bay Shopping Centre, Corner Maine Terrace and Bay Avenue",Deception Bay,QLD,4508,-27.19272,153.03027,9:00:00,15:30:00,No
+62,Medicare,Heidelberg,21 Yarra Street,Heidelberg,VIC,3084,-37.7589,145.06975,9:30:00,17:30:00,No
+63,Medicare,Dandenong,27-29 Robinson Street,Dandenong,VIC,3175,-37.9877,145.21052,8:30:00,16:30:00,No
+64,Medicare,Darwin,"Ground Floor, 24 Knuckey Street",Darwin,NT,800,-12.46155,130.84338,8:45:00,15:30:00,No
+65,Medicare,Dubbo,64 Wingewarra Street,Dubbo,NSW,2830,-32.24898,148.60454,8:30:00,16:30:00,No
+66,Medicare,Devonport,167 William Street,Devonport,TAS,7310,-41.17479,146.35092,8:45:00,15:30:00,No
+67,Medicare,Dalby,34-36 Patrick Street,Dalby,QLD,4405,-27.18026,151.26456,8:30:00,16:30:00,No
+68,Medicare,Elizabeth,10 Langford Drive,Elizabeth,SA,5112,-34.72049,138.66431,8:30:00,16:00:00,No
+69,Medicare,Ryde,19-27 Devlin Street,Ryde,NSW,2112,-33.81464,151.1034,9:30:00,16:00:00,No
+70,Medicare,Seniors & Carers Robina,"Level 5, Robina Town Centre, 19-33 Robina Town Centre Drive",Robina,QLD,4230,-28.07749,153.38539,8:00:00,16:30:00,No
+71,Medicare,Emerald,21 Egerton Street,Emerald,QLD,4720,-23.52423,148.15922,9:15:00,17:00:00,No
+72,Medicare,Echuca,69 Heygarth Street,Echuca,VIC,3564,-36.12498,144.7462,8:45:00,17:30:00,No
+73,Medicare,Fremantle,11 Queen Victoria St,Fremantle,WA,6160,-32.05143,115.74977,8:30:00,16:30:00,No
+74,Medicare,Fairfield,29-33 Barbara Street,Fairfield,NSW,2165,-33.87276,150.95339,8:30:00,16:30:00,No
+75,Medicare,Fountain Gate,71-73 Webb Street,Narre Warren,VIC,3805,-38.02255,145.30631,8:30:00,16:00:00,No
+76,Medicare,Frankston,"Shop GO1Q, Bayside Shopping Centre",Frankston,VIC,3199,-38.14114,145.12465,9:00:00,15:30:00,No
+77,Medicare,Footscray,75 Moore Street,Footscray,VIC,3011,-37.79967,144.90346,8:30:00,16:30:00,No
+78,Medicare,Greensborough,16-20 Grimshaw Street,Greensborough,VIC,3088,-37.70488,145.10676,8:30:00,16:30:00,No
+79,Medicare,Gawler,23 High Street,Gawler,SA,5118,-34.60007,138.75007,9:30:00,16:00:00,No
+80,Medicare,Goulburn,159 Auburn Street,Goulburn,NSW,2580,-34.75594,149.71821,9:00:00,15:30:00,No
+81,Medicare,Upper Mt Gravatt,57 Sanders Street,Upper Mt Gravatt,QLD,4122,-27.55895,153.08206,8:30:00,16:30:00,Yes - Irregular Hours
+82,Medicare,Gosford,9 Watt Street,Gosford,NSW,2250,-33.42396,151.34402,8:00:00,16:30:00,No
+83,Medicare,Gladstone,164-170 Goondoon Street,Gladstone,QLD,4680,-23.84622,151.25814,8:30:00,16:30:00,Yes - Irregular Hours
+84,Medicare,Geelong,12-14 Little Ryrie Street,Geelong,VIC,3220,-38.1492,144.35522,8:00:00,17:00:00,No
+85,Medicare,Griffith,95-97 Yambil Street,Griffith,NSW,2680,-34.28909,146.04573,9:30:00,17:30:00,No
+86,Medicare,Gungahlin,Gungahlin Marketplace 33 Hibberson Street,Gungahlin,ACT,2912,-35.18451,149.13492,8:00:00,16:30:00,No
+87,Medicare,Gympie,27 OConnell Street,Gympie,QLD,4570,-26.18736,152.66149,9:30:00,16:00:00,No
+88,Medicare,Grafton,4-8 King Street,Grafton,NSW,2460,-29.68991,152.93267,8:45:00,17:30:00,No
+89,Medicare,Geraldton,Corner Forrest Street and Chapman Road,Geraldton,WA,6530,-28.77082,114.61273,8:30:00,16:30:00,No
+90,Medicare,Gunnedah,34 Chandos Street,Gunnedah,NSW,2380,-30.97749,150.25019,9:00:00,16:30:00,No
+91,Medicare,Glen Waverley,7 Bogong Avenue,Glen Waverley,VIC,3150,-37.88138,145.16124,8:30:00,16:00:00,No
+92,Medicare,Glenorchy,455 Main Rd,Glenorchy,TAS,7010,-42.83047,147.2701,9:30:00,16:00:00,No
+93,Medicare,Hastings,125 High Street,Hastings,VIC,3915,-38.30781,145.18694,8:30:00,16:30:00,No
+94,Medicare,Sunshine,103 Harvester Road,Sunshine,VIC,3020,-37.77804,144.82977,9:00:00,15:30:00,No
+95,Medicare,Hamilton,258 Gray Street,Hamilton,VIC,3300,-37.7415,142.02759,8:30:00,16:30:00,No
+96,Medicare,Hornsby,135-137 Pacific Highway,Hornsby,NSW,2077,-33.70618,151.09853,8:45:00,15:30:00,No
+97,Medicare,Horsham,Corner Darlot and McLachlan Streets,Horsham,VIC,3400,-36.71317,142.19716,8:00:00,16:30:00,No
+98,Medicare,Hobart,30-38 Barrack Street,Hobart,TAS,7000,-42.8858,147.32258,9:30:00,16:00:00,No
+99,Medicare,Warwick Grove,87 Ellersdale Avenue,Warwick,WA,6024,-31.84228,115.81003,9:00:00,15:30:00,No
+100,Medicare,Hervey Bay,6 Hunter St,Pialba,QLD,4655,-25.28288,152.84124,8:00:00,16:30:00,No
+101,Medicare,Ipswich,78 East Street,Ipswich,QLD,4305,-27.6172,152.76024,8:30:00,16:00:00,No
+102,Medicare,Inverell,158 Otho Street,Inverell,NSW,2360,-29.77744,151.11445,8:00:00,16:30:00,No
+103,Medicare,Ingham,48 Herbert Street,Ingham,QLD,4850,-18.64973,146.15938,8:30:00,16:00:00,No
+104,Medicare,Innisfail,72 Ernest Street,Innisfail,QLD,4860,-17.52449,146.02787,9:00:00,15:30:00,No
+105,Medicare,Toowong,17-19 Lissner Street,Toowong,QLD,4066,-27.48419,152.99141,8:45:00,17:30:00,No
+106,Medicare,Joondalup,68 Reid Promenade,Joondalup,WA,6027,-31.74185,115.77141,8:00:00,17:00:00,No
+107,Medicare,Katoomba,33-35 Waratah Street,Katoomba,NSW,2780,-33.71712,150.30953,9:30:00,17:30:00,No
+108,Medicare,Kalgoorlie,Corner Egan and Porter Street,Kalgoorlie,WA,6430,-30.74538,121.4771,8:30:00,16:00:00,No
+109,Medicare,Margate,279-287 Oxley Avenue,Margate,QLD,4019,-27.24345,153.10666,9:30:00,16:00:00,No
+110,Medicare,Kingaroy,21 Markwell Street,Kingaroy,QLD,4610,-26.54301,151.83797,9:00:00,15:30:00,No
+111,Medicare,Mayfield,188-194 Maitland Road,Mayfield,NSW,2304,-32.9002,151.7398,8:30:00,16:30:00,No
+112,Medicare,Innaloo,"40 Hasler Road, Osborne Park",Innaloo,WA,6018,-31.91075,115.81025,9:30:00,16:00:00,No
+113,Medicare,Kawana Waters,113 Point Cartwright Drive,Buddina,QLD,4575,-26.69948,153.13196,8:45:00,15:30:00,No
+114,Medicare,Kempsey,68-70 Elbow Street,West Kempsey,NSW,2440,-31.081,152.8287,9:00:00,15:30:00,No
+115,Medicare,Lismore,47 Conway Street,Lismore,NSW,2480,-28.8121,153.27696,8:30:00,16:30:00,No
+116,Medicare,Lake Haven,3 Forrow Drive,Lake Haven,NSW,2263,-33.24258,151.50627,8:00:00,17:00:00,No
+117,Medicare,Liverpool,211-231 Northumberland Street (ground floor),Liverpool,NSW,2170,-33.92358,150.92204,9:00:00,15:30:00,No
+118,Medicare,Launceston,8 Boland Street,Launceston,TAS,7250,-41.42954,147.14338,9:15:00,17:00:00,No
+119,Medicare,Leichhardt,23 Balmain Road,Leichhardt,NSW,2040,-33.88706,151.15933,8:30:00,16:00:00,No
+120,Medicare,Lithgow,176 Mort Street,Lithgow,NSW,2790,-33.4813,150.16031,8:00:00,16:30:00,No
+121,Medicare,Melton,Woodgrove Shopping Centre Barries Road,Melton,VIC,3337,-37.68724,144.56585,9:00:00,15:30:00,No
+122,Medicare,Midland,15 Keane Street,Midland,WA,6056,-31.8884,116.00507,9:30:00,16:00:00,No
+123,Medicare,Mornington,332 Main Street,Mornington,VIC,3931,-38.2261,145.04346,8:30:00,16:30:00,No
+124,Medicare,Morley,38 Rudloc Road,Morley,WA,6062,-31.90007,115.89983,8:00:00,16:30:00,No
+125,Medicare,Caringbah,15-21 President Avenue,Caringbah,NSW,2229,-34.04258,151.12139,8:30:00,16:00:00,No
+126,Medicare,Maitland,226 High Street,Maitland,NSW,2320,-32.7376,151.5621,8:45:00,17:30:00,Yes - Irregular Hours
+127,Medicare,Nambucca Heads,13 Bowra Street,Nambucca Heads,NSW,2448,-30.64258,153.00279,8:30:00,16:30:00,No
+128,Medicare,Caboolture,20-22 George Street,Caboolture,QLD,4510,-27.08205,152.94853,0:00,Mon to Fri - Irregular Hours,No
+129,Medicare,Mudgee,Lot 72 Byron Place,Mudgee,NSW,2850,-32.59183,149.5868,8:30:00,16:30:00,No
+130,Medicare,Mandurah,24-26 Tuckey Street,Mandurah,WA,6210,-32.53233,115.72343,9:30:00,16:00:00,No
+131,Medicare,Mt Isa,30-32 West Street,Mt Isa,QLD,4825,-20.72491,139.49098,9:00:00,15:30:00,No
+132,Medicare,Mackay,12 Greenfields Boulevard,Mackay,QLD,4740,-21.12251,149.15892,8:30:00,16:30:00,No
+133,Medicare,Morwell,Corner Chapel and Elgin Street,Morwell,VIC,3840,-38.23986,146.39936,8:45:00,15:30:00,No
+134,Medicare,Marion,8 Warracowie Way,Oaklands Park,SA,5046,-35.01371,138.54266,8:30:00,16:30:00,No
+135,Medicare,Moree,11 Auburn Street,Moree,NSW,2400,-29.4609,149.83977,9:30:00,17:30:00,No
+136,Medicare,Darlinghurst,137-153 Crown Street,Darlinghurst,NSW,2010,-33.87637,151.21556,8:00:00,17:00:00,No
+137,Medicare,Goodna,1 William Street,Goodna,QLD,4300,-27.60726,152.8957,8:30:00,16:00:00,No
+138,Medicare,Inala,14 Wirraway Parade,Inala,QLD,4077,-27.60139,152.97454,8:00:00,16:30:00,No
+139,Medicare,Maryborough,207 Lennox Street,Maryborough,QLD,4650,-25.5374,152.7012,9:30:00,16:00:00,No
+140,Medicare,Newmarket,482-490 Racecourse Road,Flemington,VIC,3031,-37.78771,144.92522,8:00:00,17:00:00,No
+141,Medicare,Mt Gambier,5 Percy Street,Mt Gambier,SA,5290,-37.8284,140.78276,9:15:00,17:00:00,No
+142,Medicare,Mildura,112-124 Deakin Avenue,Mildura,VIC,3500,-34.18742,142.16028,9:00:00,15:30:00,No
+143,Medicare,Muswellbrook,164-166 Bridge Street,Muswellbrook,NSW,2333,-32.26028,150.88902,9:00:00,16:30:00,No
+144,Medicare,Maroochydore,5 Maud Street,Maroochydore,QLD,4558,-26.65634,153.09473,8:30:00,16:30:00,No
+145,Medicare,Narooma,"Shop 34 & 35, Narooma Plaza, 185 Princes Highway",Narooma,NSW,2546,-36.22382,150.12716,8:45:00,17:30:00,No
+146,Medicare,Newcastle,275-279 King Street,Newcastle West,NSW,2300,-32.92869,151.76895,8:30:00,16:30:00,No
+147,Medicare,Darebin,251 Murray Street,Preston,VIC,3072,-37.7382,145.0023,8:30:00,16:30:00,No
+148,Medicare,Narrabri,9 Doyle Street,Narrabri,NSW,2390,-30.32415,149.7836,8:30:00,16:30:00,12:30:00 to 13:30:00
+149,Medicare,Nambour,Corner Currie and Maud Street,Nambour,QLD,4560,-26.62841,152.95957,8:30:00,16:30:00,No
+150,Medicare,Nowra,4 Lawrence Avenue,Nowra,NSW,2541,-34.8773,150.60125,9:30:00,16:00:00,No
+151,Medicare,Orange,189-191 Anson Street,Orange,NSW,2800,-33.28454,149.09805,8:30:00,16:00:00,No
+152,Medicare,Palmerston,2 Maluka Street,Palmerston,NT,830,-12.48104,130.98689,9:00:00,15:30:00,No
+153,Medicare,Portland,8-10 Gawler Street,Portland,VIC,3305,-38.35023,141.60513,8:00:00,16:30:00,No
+154,Medicare,Windsor,255 High Street,Prahran,VIC,3181,-37.85228,144.9969,8:45:00,15:30:00,No
+155,Medicare,Merrylands,207-209 Pitt Street,Merrylands,NSW,2160,-33.8355,150.9913,8:30:00,16:30:00,No
+156,Medicare,Parramatta,2-12 Macquarie Street,Parramatta,NSW,2150,-33.81437,151.00061,9:30:00,16:00:00,No
+157,Medicare,Maroubra,136-138 Maroubra Road,Maroubra,NSW,2035,-33.94108,151.23748,8:30:00,16:30:00,No
+158,Medicare,Penrith,598 High Street (Corner Worth Street),Penrith,NSW,2750,-33.75211,150.6908,8:30:00,16:00:00,No
+159,Medicare,Pakenham,25 Treloar Lane,Pakenham,VIC,3810,-38.07841,145.48349,8:30:00,16:30:00,No
+160,Medicare,Port Macquarie,5-7 Short Street,Port Macquarie,NSW,2444,-31.42974,152.90668,8:00:00,17:00:00,No
+161,Medicare,Port Pirie,53 Gertrude Street,Port Pirie,SA,5540,-33.17637,138.00701,8:30:00,16:00:00,No
+162,Medicare,Parkes,57-59 Currajong Street,Parkes,NSW,2870,-33.13433,148.17627,9:30:00,17:30:00,No
+163,Medicare,Port Lincoln,8 Edinburgh Street,Port Lincoln,SA,5606,-34.72455,135.8598,9:15:00,17:00:00,No
+164,Medicare,Port Augusta,21-23 Mackay Street,Port Augusta,SA,5700,-32.48941,137.76342,9:00:00,15:30:00,No
+165,Medicare,Queanbeyan,183 Crawford Street,Queanbeyan,NSW,2620,-35.35187,149.23298,9:30:00,16:00:00,No
+166,Medicare,Hawkesbury,309-311 George Street,Windsor,NSW,2756,-33.609,150.81667,8:30:00,16:00:00,No
+167,Medicare,Rockingham,18 Civic Boulevarde,Rockingham,WA,6168,-32.28626,115.74637,9:00:00,15:30:00,No
+168,Medicare,Rockhampton,190-194 Musgrave Street,Rockhampton,QLD,4700,-23.36178,150.52331,8:00:00,16:30:00,Yes - Irregular Hours
+169,Medicare,Rosebud,3 Jetty Road,Rosebud,VIC,3939,-38.35533,144.90943,8:30:00,16:30:00,No
+170,Medicare,Rosny Park,2 Gordons Hill Road,Rosny Park,TAS,7018,-42.86619,147.37231,8:30:00,16:30:00,No
+171,Medicare,Campsie,19-21 Anglo Road,Campsie,NSW,2194,-33.91096,151.10231,8:45:00,17:30:00,No
+172,Medicare,Raymond Terrace,37-39 Sturgeon Street,Raymond Terrace,NSW,2324,-32.76431,151.7424,8:30:00,16:30:00,Yes - Irregular Hours
+173,Medicare,Rowville,5 Fulham Road,Rowville,VIC,3178,-37.91754,145.23712,8:45:00,15:30:00,No
+174,Medicare,Ringwood,2-6 Bond Street,Ringwood,VIC,3134,-37.81396,145.22638,8:30:00,16:30:00,No
+175,Medicare,Sale,150-154 York Street,Sale,VIC,3850,-38.1081,147.06899,8:00:00,17:00:00,No
+176,Medicare,Smithfield (Shopfront),"Shops 77 / 77a, Smithfield Shopping Centre, Corner Kennedy and Cook Highways",Smithfield,QLD,4878,-16.83731,145.69267,9:00:00,17:00:00,No
+177,Medicare,Strathpine,242 Gympie Road,Strathpine,QLD,4500,-27.30889,152.98989,8:30:00,16:30:00,No
+178,Medicare,Springwood,107-109 Macquarie Road,Springwood,NSW,2777,-33.69887,150.56832,8:30:00,16:30:00,No
+179,Medicare,Shepparton,296-298 Maude Street,Shepparton,VIC,3630,-36.3851,145.39969,9:00:00,15:30:00,No
+180,Medicare,Sutherland,36 Eton Street,Sutherland,NSW,2232,-34.03181,151.05905,9:30:00,16:00:00,No
+181,Medicare,Singleton,6 William Street,Singleton,NSW,2330,-32.56411,151.16969,9:00:00,16:30:00,No
+182,Medicare,Cheltenham,1242a Nepean Highway,Cheltenham,VIC,3192,-37.96752,145.05865,8:30:00,16:00:00,No
+183,Medicare,Shellharbour,"Shop G2 and OA22, Shellharbour Square Shopping Centre, Lake Entrance Road",Shellharbour,NSW,2529,-34.56388,150.83893,9:15:00,17:00:00,No
+184,Medicare,Southport,5-15 Suter Street,Southport,QLD,4215,-27.97013,153.41132,9:30:00,16:00:00,No
+185,Medicare,Swan Hill,221-227 Beveridge Street,Swan Hill,VIC,3585,-35.34161,143.55917,8:30:00,16:30:00,No
+186,Medicare,Toowoomba,12-20 Bell Street (ground floor),Toowoomba,QLD,4350,-27.56056,151.95647,8:00:00,16:30:00,No
+187,Medicare,Seniors & Carers Townsville,Corner Kern Brothers Drive and Hervey Range Road,Thuringowa,QLD,4817,-19.31855,146.72523,8:30:00,16:30:00,Yes - Irregular Hours
+188,Medicare,The Entrance,16-18 Fairview Avenue,The Entrance,NSW,2261,-33.3433,151.49634,8:30:00,16:30:00,No
+189,Medicare,Tuggeranong,"Units 1 and 2, Tuggeranong Square, Corner Anketell and Sheering Streets",Tuggeranong,ACT,2900,-35.42025,149.06995,8:30:00,16:30:00,No
+190,Medicare,Tamworth,219-223 Peel Street,Tamworth,NSW,2340,-31.08799,150.92714,8:45:00,15:30:00,No
+191,Medicare,Nundah,1283-1285 Sandgate Road,Nundah,QLD,4012,-27.40143,153.05974,9:30:00,17:30:00,No
+192,Medicare,Toronto,2-6 Donnelly Avenue,Toronto,NSW,2283,-33.01121,151.59433,8:30:00,16:00:00,No
+193,Medicare,Taree,184-188 Victoria Street,Taree,NSW,2430,-31.91356,152.46107,9:00:00,15:30:00,No
+194,Medicare,Tweed Heads,100 Blundell Boulevard,Tweed Heads,NSW,2486,-28.20001,153.54273,8:00:00,17:00:00,No
+195,Medicare,Modbury,96 Reservoir Road,Modbury,SA,5092,-34.83428,138.68773,8:30:00,16:30:00,No
+196,Medicare,Wyong,25-27 Hely Street,Wyong,NSW,2259,-33.28035,151.4253,8:45:00,17:30:00,No
+197,Medicare,Tuncurry,116 Manning Street,Tuncurry,NSW,2428,-32.1719,152.4983,9:00:00,15:30:00,No
+198,Medicare,Ulladulla,270-272 Green Street,Ulladulla,NSW,2539,-35.35716,150.47256,8:30:00,16:30:00,No
+199,Medicare,Woy Woy,87-89 Blackwall Road,Woy Woy,NSW,2256,-33.48747,151.32514,9:30:00,16:00:00,No
+200,Medicare,Werribee,89-91 Synnot Street,Werribee,VIC,3030,-37.9059,144.65726,8:30:00,16:30:00,No
+201,Medicare,Woodridge,21 Station Street,Woodridge,QLD,4114,-27.63841,153.10526,8:00:00,16:30:00,No
+202,Medicare,Wangaratta,23-25 Faithful Street,Wangaratta,VIC,3677,-36.35343,146.32727,8:30:00,16:30:00,No
+203,Medicare,Warrnambool,109 Lava Street,Warrnambool,VIC,3280,-38.382,142.4854,9:15:00,17:00:00,No
+204,Medicare,Wallsend,70 Robert Street,Wallsend,NSW,2287,-32.90136,151.67182,8:30:00,16:30:00,Yes - Irregular Hours
+205,Medicare,Wollongong,"43 Burelli Street, ground and level 1",Wollongong,NSW,2500,-34.42703,150.89806,8:30:00,16:30:00,No
+206,Medicare,Whyalla,169 Nicholson Avenue,Whyalla Norrie,SA,5608,-33.02747,137.53575,8:45:00,15:30:00,No
+207,Medicare,Warwick,37-39 Albion Street,Warwick,QLD,4370,-28.21337,152.03436,8:30:00,16:30:00,No
+208,Medicare,Warragul,42 Queen Street,Warragul,VIC,3820,-38.1634,145.9289,9:15:00,17:00:00,No
+209,Medicare,Woden,"Building C, Ground Floor, Penrhyn House, 2-6 Bowes Street",Woden,ACT,2606,-35.3483,149.08701,8:30:00,16:30:00,No
+210,Medicare,Warrawong (Shopfront),"Westfield Warrawong, Suite 1, Corner King and Cowper Streets",Warrawong,NSW,2502,-34.48552,150.88821,9:00:00,15:30:00,No
+211,Medicare,Port Adelaide,72 Lipson Street,Port Adelaide,SA,5015,-34.84703,138.50867,8:30:00,16:30:00,No
+212,Medicare,Springvale,324-334 Springvale Road,Springvale,VIC,3171,-37.95584,145.15157,8:30:00,16:00:00,No
+213,Medicare,Wagga Wagga,63 Tompson Street,Wagga Wagga,NSW,2650,-35.1118,147.36931,8:00:00,17:00:00,No
+214,Medicare,Wynnum,89 Tingal Road,Wynnum,QLD,4178,-27.44666,153.17245,9:30:00,16:00:00,No
+215,Medicare,Rouse Hill,"Shop GR76, Rouse Hill Town Centre, 10-14 Market Lane",Rouse Hill,NSW,2155,-33.691,150.92435,9:00:00,16:30:00,Yes - Irregular Hours
+216,Medicare,Yarra,617-619 Victoria Street,Abbotsford,VIC,3067,-37.81087,145.00854,9:30:00,17:30:00,No
+217,Medicare,Young,130 Lovell Street,Young,NSW,2594,-34.31094,148.29214,9:00:00,16:30:00,12:00:00 to 14:00:00
+218,Medicare,Ashmore,"Shop 7, Ashmore City Shopping Centre, Corner Nerang and Currumburra Road",Ashmore,QLD,4214,-27.97713,153.38084,9:00:00,17:00:00,No
+219,Medicare,Northern Beaches,660-664 Pittwater Road,Brookvale,NSW,2100,-33.76771,151.26733,8:00:00,16:30:00,No
+220,Medicare,Booragoon,"Shop 13-14, Gateway Centre, Marmion St (Davey Street)",Booragoon,WA,6154,-32.03582,115.83292,8:30:00,17:00:00,No
+221,Medicare,Charlestown,"Shop 1, Hilltop Plaza, 324 Charlestown Road (co-located in NDIA premises)",Charlestown,NSW,2290,-32.96135,151.6953,0:00,Mon to Fri - Irregular Hours,No
+222,Medicare,Camberwell,527 Riversdale Road,Camberwell,VIC,3124,-37.83132,145.05795,8:30:00,16:30:00,No
+223,Medicare,Castle Hill,"Shop 256, Castle Towers Shopping Centre, 6-14 Castle Street",Castle Hill,NSW,2154,-33.72986,151.00641,9:00:00,17:00:00,No
+224,Medicare,Carindale,"Shop 1025, Ground Floor, Westfield Carindale, 1151 Creek Road",Carindale,QLD,4152,-27.50332,153.10151,9:00:00,17:00:00,Yes - Irregular Hours
+225,Medicare,Melbourne - Galleria,"Shop E17 Ground Floor, Galleria Shopping Centre, 385 Bourke Street",Melbourne,VIC,3000,-37.81497,144.96307,8:30:00,16:30:00,No
+226,Medicare,Hurstville,"Shop 218b Level 1, Westfield Hurstville, Corner Cross Street and Park Road",Hurstville,NSW,2220,-33.96609,151.10488,9:00:00,17:00:00,No
+227,Medicare,Kingston,"Service Tasmania, Channel Court, Shop 87A, 29 Channel Highway",Kingston,TAS,7050,-42.97638,147.30962,9:00:00,16:30:00,No
+228,Medicare,Wantirna South - Knox City,"Shop 1091, Knox City Shopping Centre, Corner Burwood Highway and Stud Road",Wantirna South,VIC,3152,-37.86898,145.23521,9:00:00,17:00:00,No
+229,Medicare,Brisbane City Office,143 Turbot Street,Brisbane,QLD,4000,-27.46724,153.02343,8:30:00,17:00:00,No
+230,Medicare,Subiaco,"Shop 1, Subiaco Village, 531 Hay Street",Subiaco,WA,6008,-31.94752,115.82157,8:30:00,17:00:00,No
+231,Medicare,Traralgon,88 Seymour Street,Traralgon,VIC,3844,-38.19571,146.53636,9:00:00,17:00:00,No
+232,Medicare,Belmont - WA,"Belmont Forum Shopping Centre, 227 Belmont Ave",Cloverdale,WA,6105,-31.96585,115.93368,9:00:00,17:00:00,No
+233,Medicare,Warriewood,"Shop 43, Warriewood Shopping Centre, Corner Jacksons and Boondah Road",Warriewood,NSW,2102,-33.69585,151.29577,9:00:00,17:00:00,No
+234,Medicare,Waurn Ponds,"Shop 702, Town and Country Shopping World, Princes Highway",Waurn Ponds,VIC,3216,-38.19917,144.31934,9:00:00,17:00:00,No
+235,Medicare Self Service Only,myGov - Brisbane,Cnr Albert & Turbot St,Brisbane,QLD,4000,-27.46724,153.02343,8:00:00,16:30:00,Yes - Irregular Hours
+236,Medicare Self Service Only,myGov - Sydney,32 Martin Place,Sydney,NSW,2000,-33.86766,151.20933,8:00:00,17:00:00,No
+237,Medicare Self Service Only,myGov - Adelaide,88 Grenfell St,Adelaide,SA,5000,-34.92401,138.6029,8:30:00,16:00:00,No
+238,Medicare Self Service Only,myGov - Perth,770 Hay St,Perth,WA,6000,-31.95325,115.85635,9:30:00,16:00:00,No
+239,Medicare,myGov - Albury,430 Wilson Street,Albury,NSW,2640,-36.07727,146.9237,9:30:00,17:30:00,No
